@@ -1,0 +1,26 @@
+ticket_id,opened_at,resolved_at,status,priority,category,channel,department,technician_id,first_response_minutes,satisfaction_score,reopened
+HD-1001,2026-08-01T08:15:00,2026-08-01T09:05:00,Resolved,High,Password Reset,Portal,Finance,T04,12,5,0
+HD-1002,2026-08-01T09:40:00,2026-08-01T14:10:00,Resolved,Medium,Software,Email,Human Resources,T01,68,4,0
+HD-1003,2026-08-02T07:55:00,2026-08-02T10:20:00,Closed,Critical,Network,Phone,Operations,T03,11,4,0
+HD-1004,2026-08-03T11:25:00,2026-08-04T15:00:00,Resolved,Low,Hardware,Portal,Sales,T02,180,3,1
+HD-1005,2026-08-04T08:05:00,2026-08-04T08:42:00,Resolved,High,Account Access,Chat,Finance,T04,18,5,0
+HD-1006,2026-08-05T13:10:00,2026-08-05T17:45:00,Closed,Medium,Email,Email,Marketing,T01,95,4,0
+HD-1007,2026-08-06T06:30:00,2026-08-06T08:00:00,Resolved,Critical,Server,Phone,Operations,T03,19,3,0
+HD-1008,2026-08-07T10:00:00,2026-08-08T12:25:00,Resolved,Low,Printer,Portal,Human Resources,T02,205,4,0
+HD-1009,2026-08-08T14:20:00,2026-08-08T16:00:00,Resolved,Medium,Password Reset,Chat,Sales,T04,34,5,0
+HD-1010,2026-08-10T09:15:00,2026-08-10T13:30:00,Closed,High,Network,Phone,Finance,T03,27,4,1
+HD-1011,2026-08-11T12:35:00,2026-08-12T09:15:00,Resolved,Medium,Software,Portal,Operations,T01,125,3,0
+HD-1012,2026-08-12T08:50:00,2026-08-12T11:05:00,Resolved,High,Account Access,Email,Human Resources,T04,22,5,0
+HD-1013,2026-08-13T15:05:00,2026-08-14T10:40:00,Closed,Low,Hardware,Portal,Marketing,T02,260,3,0
+HD-1014,2026-08-14T07:45:00,2026-08-14T09:30:00,Resolved,Critical,Security,Phone,Finance,T03,8,5,0
+HD-1015,2026-08-15T10:30:00,2026-08-15T12:10:00,Resolved,Medium,Email,Chat,Sales,T01,42,4,0
+HD-1016,2026-08-17T09:05:00,2026-08-17T09:40:00,Closed,High,Password Reset,Phone,Operations,T04,9,5,0
+HD-1017,2026-08-18T14:45:00,2026-08-20T11:30:00,Resolved,Low,Printer,Email,Finance,T02,195,4,1
+HD-1018,2026-08-19T08:20:00,2026-08-19T12:55:00,Resolved,High,Software,Portal,Human Resources,T01,35,3,0
+HD-1019,2026-08-20T06:55:00,2026-08-20T08:15:00,Closed,Critical,Network,Phone,Operations,T03,13,5,0
+HD-1020,2026-08-22T11:10:00,2026-08-23T14:35:00,Resolved,Medium,Hardware,Portal,Marketing,T02,115,4,0
+HD-1021,2026-08-25T07:40:00,,In Progress,Critical,Server,Phone,Operations,T03,10,,0
+HD-1022,2026-08-26T13:25:00,,Open,High,Account Access,Portal,Finance,T04,44,,0
+HD-1023,2026-08-27T09:50:00,,In Progress,Medium,Software,Email,Sales,T01,88,,0
+HD-1024,2026-08-29T16:15:00,,Open,Low,Printer,Portal,Human Resources,T02,310,,0
+
